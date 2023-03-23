@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "683606226865",
+    "project_id": "test-26d40",
+    "storage_bucket": "test-26d40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683606226865:android:dce3d46c0f0ea49c72af90",
+        "android_client_info": {
+          "package_name": "com.example.qaptive_ranjithmenon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683606226865-etspn1sjvl9cvsv0vjc4kq8m1e0j928q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXN6rrmTBFmmmPWg_i4vjxun_hOQDi0as"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683606226865-etspn1sjvl9cvsv0vjc4kq8m1e0j928q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
